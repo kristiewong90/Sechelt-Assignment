@@ -1,9 +1,12 @@
 body {
-  overflow-x: hidden;
-  font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /* overflow-x: hidden; */
+  font-family: 'Raleway', sans-serif;
 }
 
-p {
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+/* p {
   line-height: 1.75;
 }
 
@@ -691,4 +694,4 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
-}
+} */
